@@ -20,14 +20,14 @@ $\ell_1$ norm minimization is a commonly used technique in signal processing and
 
 ## Results
 
+The utilization of TV norm minimization in the image reconstruction process yields a significantly enhanced image in terms of sharpness, particularly noticeable in the intricate details such as hair. In contrast, the image produced through $\ell_1$ norm minimization exhibits a noticeable blurring effect. These observations underscore the superiority of the TV norm approach over the $\ell_1$ norm approach, affirming its efficacy as a more favorable method for achieving sharper and more visually appealing image reconstructions.
+
 <div align='center'>
 
 ![image](https://github.com/baturalpguven/DMD-Denoiser_with-BM3D/assets/77858949/f7909cc5-1d28-41fe-ad68-c65dec4e9714)
 
 ![image](https://github.com/baturalpguven/DMD-Denoiser_with-BM3D/assets/77858949/d6b82941-0f4d-443d-8c74-a169a020e6d5)
 </div>
-
-The utilization of TV norm minimization in the image reconstruction process yields a significantly enhanced image in terms of sharpness, particularly noticeable in the intricate details such as hair. In contrast, the image produced through $\ell_1$ norm minimization exhibits a noticeable blurring effect. These observations underscore the superiority of the TV norm approach over the $\ell_1$ norm approach, affirming its efficacy as a more favorable method for achieving sharper and more visually appealing image reconstructions.
 
 ## Running the Code
 
