@@ -1,5 +1,5 @@
 # DMD-Denoiser_with-BM3D
-In this research endeavor, the BM3D model has been harnessed as a powerful tool for the purpose of image reconstruction. The primary objective of this project was to reconstruct an image through the simulation of a Single-Pixel-Imagin with randomly generated Digital Micromirror Device (DMD) patterns using Python. In order to achieve this goal, various conventional methods were employed for the image reconstruction process. The resultant reconstructed images obtained from each method were compared visually with one another to assess their performance and effectiveness.
+In this project, the BM3D model has been used as a powerful tool for the purpose of image reconstruction. The primary objective of this project was to reconstruct an image through the simulation of a Single-Pixel-Imagin with randomly generated Digital Micromirror Device (DMD) patterns using Python. In order to achieve this goal, various conventional methods were employed for the image reconstruction process. The resultant reconstructed images obtained from each method were compared visually with one another to assess their performance and effectiveness.
 
 ## What is BM3D
 
