@@ -5,7 +5,7 @@ In this research endeavor, the BM3D model has been harnessed as a powerful tool 
 
 BM3D (Block-Matching 3D) is a state-of-the-art image-denoising algorithm that effectively reduces noise in images while preserving their details and structures. It operates on the principle of collaborative filtering, where similar patches in the image are grouped together and jointly processed to enhance denoising performance. The main steps involved in the BM3D algorithm include block-matching, collaborative filtering, and aggregation.
 
-## Alternating Method of Multipliers (ADMM)
+## Alternating Direction Method of Multipliers (ADMM)
 
 The Alternating Direction Method of Multipliers (ADMM) is an optimization algorithm commonly used to solve optimization problems with multiple variables and constraints. It is particularly useful for problems that can be decomposed into smaller subproblems, allowing for efficient parallelization. ADMM iteratively updates the variables while enforcing consistency between them through the use of dual variables. The general update steps in ADMM involve minimizing individual subproblems and updating the dual variables.
 
