@@ -1,5 +1,5 @@
 # DMD-Denoiser_with-BM3D
-In this project with the help of the BM3D model Image reconstruction has been accomplished. To reconstruct the image, a DMD was simulated with Python, different conventional methods were used to reconstruct, and the output was compared with each other as images.
+In this research endeavor, the BM3D model has been harnessed as a powerful tool for the purpose of image reconstruction. The primary objective of this project was to reconstruct an image through the simulation of a Digital Micromirror Device (DMD) using Python. In order to achieve this goal, various conventional methods were employed for the image reconstruction process. The resultant reconstructed images obtained from each method were meticulously compared with one another to assess their performance and effectiveness.
 
 ## What is BM3D
 
