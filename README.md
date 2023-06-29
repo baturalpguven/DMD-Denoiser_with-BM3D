@@ -27,6 +27,8 @@ $\ell_1$ norm minimization is a commonly used technique in signal processing and
 ![image](https://github.com/baturalpguven/DMD-Denoiser_with-BM3D/assets/77858949/d6b82941-0f4d-443d-8c74-a169a020e6d5)
 </div>
 
+The utilization of TV norm minimization in the image reconstruction process yields a significantly enhanced image in terms of sharpness, particularly noticeable in the intricate details such as hair. In contrast, the image produced through $\ell_1$ norm minimization exhibits a noticeable blurring effect. These observations underscore the superiority of the TV norm approach over the $\ell_1$ norm approach, affirming its efficacy as a more favorable method for achieving sharper and more visually appealing image reconstructions.
+
 ## Running the Code
 
 The files that were previously stored on Google Drive have now been migrated to the GitHub repository. You can access and view these files directly in the repository. The primary code that encompasses the entirety of the work done is the `BM3D_ADMM_Code.ipynb` notebook. This notebook serves as the central hub where all the necessary tasks and operations have been implemented.
